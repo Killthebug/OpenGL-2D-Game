@@ -1,0 +1,18 @@
+Angry Birds game made using OPENGL
+
+Controls:
+A : Increase Cannon Angle
+B : Reduce Cannon Angle
+F : Increase Cannon Power
+S : Decrease Cannon Power
+UP : Zoom in
+DOWN : Zoom Out
+LEFT ; Pan-left
+RIGHT : Pan-right
+R : Reload Weapon
+SPACE : Shoot
+
+Mouse:
+Left Click Hold & Drag : Change Cannon Angle
+Right Click Hold & Drag : Horizontal Pan
+Scroll In/Out : Zoom 
